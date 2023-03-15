@@ -1,0 +1,171 @@
+.khususnavbar {
+    background-color:#809BCE;
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+    text-decoration: none;
+}
+.tulisan-naro {
+    color: #3C64B1;
+}
+.contact {
+    display: flex;
+    align-items: center;
+    background-color: #3C64B1;
+    color: white;
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    margin: 15px;
+    padding: 15px;
+}
+.link-navbar {
+    display: flex;
+    flex: row;
+    list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  gap: 50px;
+  text-decoration: none;
+
+}
+.link-navbar a{
+    color: white;
+    
+}
+.hello-my-name-is-rahman {
+display: flex;
+flex-direction: column;
+text-align: center;
+}
+.gabungan-hello{
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    margin-bottom: 100px;
+    background-color: #bcd1f7;
+}
+.hello-kiri {
+    display: grid;
+    flex-direction: row;
+    justify-content: space-between;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.foto-rahman {
+    width: 476px;
+    height: 389px;
+   
+}
+.more-about-me{
+   display: flex;
+    align-items: center;
+    background-color: #3C64B1;
+    color: white;
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    margin: 150px 120px 100px 100px;
+    padding: 20px;
+}
+.about-me {
+    text-align: center;
+}
+.div-about-me {
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    grid-template-columns: 0.5fr 0fr;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.my-skill {
+    text-align: center;
+}
+.account {
+    text-align: center;
+}
+.html5 {
+background-color: #809BCE;
+margin-right: 30px;
+}
+.css3 {
+background-color: #809BCE;
+}
+.github {
+background-color: #809BCE;
+margin-left: 30px;
+}
+.skill-ketiganya {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    margin: 100px 100px 100px 100px;
+}
+.foto-orang-meeting {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.linkedin {
+display: flex;
+flex: row;
+
+}
+.instagram {
+display: flex;
+flex: row;
+}
+.gmail {
+display: flex;
+flex: row;
+}
+.github {
+display: flex;
+flex: row;
+}
+.gabungan-account {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    gap: 20px;
+}
+.link-link {
+    display: flex;
+    flex-direction: column;
+    width: 30px;
+    height: 30px;
+    
+}
+.footer {
+    background-color: #809BCE;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.contact-footer {
+    display: flex;
+    align-items: center;
+    background-color: #3C64B1;
+    color: white;
+    margin: 15px;
+    padding: 15px;
+   
+}
+.footer-terbawah {
+    background-color: #373F41;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
