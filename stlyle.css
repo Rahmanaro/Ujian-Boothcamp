@@ -93,6 +93,10 @@ text-decoration: none;
     padding: 20px;
    
 }
+.link-more {
+    text-decoration: none;
+    color: white;
+}
 .about-me {
     text-align: center;
 }
@@ -142,19 +146,26 @@ margin-left: 30px;
 .linkedin {
 display: flex;
 flex: row;
+align-items: center;
 
 }
+
 .instagram {
 display: flex;
 flex: row;
+align-items: center;
+
 }
+
 .gmail {
 display: flex;
 flex: row;
+align-items: center;
 }
 .github {
 display: flex;
 flex: row;
+align-items: center;
 
 }
 .gabungan-account {
@@ -200,3 +211,4 @@ flex: row;
     flex-direction: row;
     justify-content: center;
 }
+
